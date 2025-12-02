@@ -1,7 +1,7 @@
 # Rabbit-TEA
 - >作者：Yoorkin
 - >项目描述：MoonBit的TEA Web UI框架
-- >[API文档](https://mooncakes.io/docs/Yoorkin/rabbit-tea)
+- >API文档：[文档链接](https://mooncakes.io/docs/Yoorkin/rabbit-tea)
 ---
 - >读者：evinyang
 - >时间：2025年11月7日
